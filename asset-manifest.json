@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4a0f82cd.css",
-    "main.js": "/portfolio/static/js/main.81f35f37.js",
+    "main.js": "/portfolio/static/js/main.88efa318.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Omshree_Samal-cv.pdf": "/portfolio/static/media/Omshree_Samal-cv.5e272334d13a32d0e257.pdf",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.4a0f82cd.css.map": "/portfolio/static/css/main.4a0f82cd.css.map",
-    "main.81f35f37.js.map": "/portfolio/static/js/main.81f35f37.js.map",
+    "main.88efa318.js.map": "/portfolio/static/js/main.88efa318.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0f82cd.css",
-    "static/js/main.81f35f37.js"
+    "static/js/main.88efa318.js"
   ]
 }
